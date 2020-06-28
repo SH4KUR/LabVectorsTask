@@ -13,3 +13,7 @@ The class should provide several constructors and a destructor, as well as redef
 x = { -10,      if a = b
       (a-52)/b, if a < b
 ```
+
+# License
+
+SH4KUR/LabVectorsTask project is licensed with the [MIT License](https://github.com/SH4KUR/LabVectorsTask/blob/master/LICENSE)
